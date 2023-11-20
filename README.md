@@ -58,7 +58,7 @@ The robot is programmed to perform the following steps:
 
 ## Demonstration Video
 
-[![Robot Demo](demo.png)](demo.mp4)
+[![Robot Demo](demoicon.png)](demo.mp4)
 
 Check out the robot in action! Click on the image above to watch the demonstration video.
 
