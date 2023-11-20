@@ -1,7 +1,12 @@
 <<<<<<< HEAD
 # Stair Climbing Robot README
     ![First](first.png)
+=======
+# Stairs Climbing Robot
+
+>>>>>>> 4715638fd0f22f029c34cbf0813334e0781341a2
 ## Overview
+This project is a stair-climbing robot implemented in C++ using the Husarion Robotics Framework. It was developed as part of a mechatronic design course at AGH University of Science and Technology, involving a collaborative effort in a four-person team (author's name below). The project represents an enhanced and more robust version inspired by the [Pybricks EV3 MicroPython stair climber example](https://pybricks.com/ev3-micropython/examples/stair_climber.html). Our robot has been designed to handle a payload of 1kg-1.5kg while climbing stairs, showcasing its improved capabilities over the original inspiration.
 ## Prerequisites
 To run this code, you need the following:
 
@@ -17,11 +22,16 @@ Ensure that the motors are connected to the correct ports on the CORE2 microcont
 
 The distance sensor and touch sensor should also be connected to the appropriate ports.
 
+## Mechanical design
 1. The robot consists of two main parts: 
     - The chassis - it has two wheels, one LEGO motor is attached to it along with a controller, batteries, and an additional load of 1 kg in the form of a steel rod.
+    - The crawler - is attached by two bolts to the chassis, it is movable and positioned within the chassis using guides. It contains the crawler drive and one pair of wheels.
 
-2. The pivot point created using bolts attached to the crawler track and a fixed structure.
-    ![The pivot point](pivont_point.jpg)
+<img src="front_robot.jpg"  width="400"/>
+<img src="left_robot.jpg"  width="400"/>
+
+2. The pivot point was created using bolts attached to the crawler track and a fixed structure.
+<img src="pivot_point.jpg"  width="400"/>
 
 ## Functionality
 The robot is programmed to perform the following steps:
@@ -49,6 +59,7 @@ The robot is programmed to perform the following steps:
 
 ## Notes
 - Make sure to adjust motor power levels and sensor thresholds based on your specific robot and environmental conditions.
+- Refer to the [Husarion Documentation](https://husarion.com/manuals/core2/) for additional information on hardware and software setup.
 
 ## Demonstration Video
 
@@ -58,3 +69,6 @@ Check out the robot in action! Click on the image above to watch the demonstrati
 
 
 ## Authors
+This project was done by Julia Jelenska, Urszula Jachymczyk, Jakub Kalamszek, and Wojciech Kubicz.
+<img src="autors.jpg" alt="Autors" width="400"/>
+
