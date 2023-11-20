@@ -65,5 +65,5 @@ Check out the robot in action! Click on the image above to watch the demonstrati
 
 ## Authors
 This project was done by Julia Jelenska, Urszula Jachymczyk, Jakub Kalamszek, Wojciech Kubicz.
-<img src="autors.jpg" alt="Autors" width="250"/>
+<img src="autors.jpg" alt="Autors" width="400"/>
 
