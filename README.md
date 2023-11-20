@@ -1,10 +1,9 @@
-<<<<<<< HEAD
+
 # Stair Climbing Robot README
-    ![First](first.png)
-=======
+<img src="first.png"  width="400"/>
 # Stairs Climbing Robot
 
->>>>>>> 4715638fd0f22f029c34cbf0813334e0781341a2
+
 ## Overview
 This project is a stair-climbing robot implemented in C++ using the Husarion Robotics Framework. It was developed as part of a mechatronic design course at AGH University of Science and Technology, involving a collaborative effort in a four-person team (author's name below). The project represents an enhanced and more robust version inspired by the [Pybricks EV3 MicroPython stair climber example](https://pybricks.com/ev3-micropython/examples/stair_climber.html). Our robot has been designed to handle a payload of 1kg-1.5kg while climbing stairs, showcasing its improved capabilities over the original inspiration.
 ## Prerequisites
