@@ -21,9 +21,10 @@ The distance sensor and touch sensor should also be connected to the appropriate
 1. The robot consists of two main parts: 
     - The chassis - it has two wheels, one LEGO motor is attached to it along with a controller, batteries, and an additional load of 1 kg in the form of a steel rod.
     - The crawler - it is attached by two bolts to the chassis, it is movable and positioned within the chassis using guides. It contains the crawler drive and one pair of wheels.
-    ![Front of the robot](front_robot.jpg)
-    ![Left of the robot](left_robot.jpg)
-    ![Top of the robot](top_robot.jpg)
+
+<img src="front_robot.jpg" alt="Autors" width="300"/>
+<img src="left_robot.jpg" alt="Autors" width="300"/>
+<img src="left_robot.jpg" alt="Autors" width="300"/>
 
 2. The pivot point created using bolts attached to the crawler track and a fixed structure.
     ![The pivot point](pivont_point.jpg)
@@ -65,5 +66,5 @@ Check out the robot in action! Click on the image above to watch the demonstrati
 
 ## Authors
 This project was done by Julia Jelenska, Urszula Jachymczyk, Jakub Kalamszek, Wojciech Kubicz.
-<img src="autors.jpg" alt="Autors" width="200"/>
+<img src="autors.jpg" alt="Autors" width="250"/>
 
