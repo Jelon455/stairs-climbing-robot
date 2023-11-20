@@ -56,6 +56,13 @@ The robot is programmed to perform the following steps:
 - Make sure to adjust motor power levels and sensor thresholds based on your specific robot and environmental conditions.
 - Refer to the [Husarion Documentation](https://husarion.com/docs/) for additional information on hardware and software setup.
 
+## Demonstration Video
+
+[![Robot Demo]](demo.mp4)
+
+Check out the robot in action! Click on the image above to watch the demonstration video.
+
+
 ## Authors
 This project was done by Julia Jelenska, Urszula Jachymczyk, Jakub Kalamszek, Wojciech Kubicz.
     ![Autors](autors.jpg)
