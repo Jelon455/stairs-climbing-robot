@@ -17,6 +17,17 @@ Ensure that the motors are connected to the correct ports on the CORE2 microcont
 
 The distance sensor and touch sensor should also be connected to the appropriate ports.
 
+## Mechanilac design
+1. The robot consists of two main parts: 
+    - The chassis - it has two wheels, one LEGO motor is attached to it along with a controller, batteries, and an additional load of 1 kg in the form of a steel rod.
+    - The crawler - it is attached by two bolts to the chassis, it is movable and positioned within the chassis using guides. It contains the crawler drive and one pair of wheels.
+    ![Front of the robot](front_robot.jpg)
+    ![Left of the robot](left_robot.jpg)
+    ![Top of the robot](top_robot.jpg)
+
+2. The pivot point created using bolts attached to the crawler track and a fixed structure.
+    ![The pivot point](pivont_point.jpg)
+
 ## Functionality
 The robot is programmed to perform the following steps:
 
@@ -45,6 +56,6 @@ The robot is programmed to perform the following steps:
 - Make sure to adjust motor power levels and sensor thresholds based on your specific robot and environmental conditions.
 - Refer to the [Husarion Documentation](https://husarion.com/docs/) for additional information on hardware and software setup.
 
-## Author
+## Authors
 This project was done by Julia Jelenska, Urszula Jachymczyk, Jakub Kalamszek, Wojciech Kubicz.
-
+    ![Autors](autors.jpg)
