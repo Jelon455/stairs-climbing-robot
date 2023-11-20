@@ -54,7 +54,7 @@ The robot is programmed to perform the following steps:
 
 ## Notes
 - Make sure to adjust motor power levels and sensor thresholds based on your specific robot and environmental conditions.
-- Refer to the [Husarion Documentation](https://husarion.com/docs/) for additional information on hardware and software setup.
+- Refer to the [Husarion Documentation]([https://husarion.com/docs/](https://husarion.com/manuals/core2/)) for additional information on hardware and software setup.
 
 ## Demonstration Video
 
