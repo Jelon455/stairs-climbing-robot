@@ -26,7 +26,7 @@ The distance sensor and touch sensor should also be connected to the appropriate
     ![Top of the robot](top_robot.jpg)
 
 2. The pivot point created using bolts attached to the crawler track and a fixed structure.
-    ![The pivot point](pivont_point.jpg)
+    ![The pivot point](pivot_point.jpg)
 
 ## Functionality
 The robot is programmed to perform the following steps:
