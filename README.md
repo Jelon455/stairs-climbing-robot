@@ -1,6 +1,6 @@
 
 # Stairs Climbing Robot README
-<img src="first.png"  width="400"/>
+<img src="first.png"  width="350"/>
 
 
 ## Overview
