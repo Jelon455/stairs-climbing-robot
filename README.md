@@ -22,11 +22,12 @@ The distance sensor and touch sensor should also be connected to the appropriate
     - The chassis - it has two wheels, one LEGO motor is attached to it along with a controller, batteries, and an additional load of 1 kg in the form of a steel rod.
     - The crawler - it is attached by two bolts to the chassis, it is movable and positioned within the chassis using guides. It contains the crawler drive and one pair of wheels.
 
-<img src="front_robot.jpg" alt="Autors" width="400"/>
-<img src="left_robot.jpg" alt="Autors" width="400"/>
+<img src="front_robot.jpg"  width="400"/>
+<img src="left_robot.jpg"  width="400"/>
 
 2. The pivot point created using bolts attached to the crawler track and a fixed structure.
-<img src="pivont_point.jpg" alt="Autors" width="400"/>
+<img src="pivot_point.jpg"  width="400"/>
+
 ## Functionality
 The robot is programmed to perform the following steps:
 
