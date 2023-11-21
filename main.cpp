@@ -140,14 +140,18 @@ void hMain()
             // do nothing
         }
     }
-    // autonomous mode
-    for (;;)
+    if(0 == howManyStairs)
     {
-        goUp();
+    // autonomous mode
+        for (;;)
+        {
+            goUp();
+        }
     }
-    // specified number of steps
+
     else
     {
+        // specified number of steps
         for (int i = 1; i <= (howManyStairs); i++)
         {
             goUp();
